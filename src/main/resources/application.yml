@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: dropbox-integration-service
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+
+dropbox:
+  base-url: https://api.dropboxapi.com/2
+  access-token: ${DROPBOX_ACCESS_TOKEN}
+
