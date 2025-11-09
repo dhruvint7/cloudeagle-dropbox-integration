@@ -11,7 +11,7 @@ The focus is on writing maintainable code, proper request/response modeling, and
 ✅ Dropbox Business API integration using Feign  
 ✅ Clean, layered Spring Boot architecture  
 ✅ Custom Feign configuration with header interceptor  
-✅ Centralized exception handling via Controller Advice (`GlobalExceptionHandler`)  
+✅ Centralized exception handling via Controller Advice(`GlobalExceptionHandler`)  
 ✅ Request/Response DTO mapping for type-safe data handling  
 ✅ Secure token handling through environment variables  
 ✅ Gradle build setup and JUnit test coverage for controller & service
