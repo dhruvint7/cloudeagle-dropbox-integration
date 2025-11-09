@@ -13,9 +13,7 @@ import java.time.Instant;
 @Data
 public class TimeRange {
 
-    /** Optional starting time (inclusive). */
     private Instant startTime;
-
-    /** Optional ending time (exclusive). */
+    
     private Instant endTime;
 }
