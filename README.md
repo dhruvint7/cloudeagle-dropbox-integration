@@ -201,7 +201,7 @@ Example error response:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author   
 
 **Dhruvin Thakkar**  
 Backend Developer • Focused on scalable, secure, and maintainable systems.  
